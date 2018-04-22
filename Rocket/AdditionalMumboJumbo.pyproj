@@ -38,6 +38,12 @@
     <Compile Include="settings.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="star.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="stars_grid.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />
