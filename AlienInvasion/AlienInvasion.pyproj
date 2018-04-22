@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ed473bea-a8ac-4e79-8d1c-6bed73414c31</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AlienInvasion.py</StartupFile>
+    <StartupFile>alien_invasion.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
