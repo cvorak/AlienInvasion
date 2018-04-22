@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AlienInvasion", "AlienInvasion\AlienInvasion.pyproj", "{ED473BEA-A8AC-4E79-8D1C-6BED73414C31}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rocket", "Rocket\Rocket.pyproj", "{75BC1F26-9F44-4363-BD6C-AF04FCD4EBE7}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AdditionalMumboJumbo", "Rocket\AdditionalMumboJumbo.pyproj", "{75BC1F26-9F44-4363-BD6C-AF04FCD4EBE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
