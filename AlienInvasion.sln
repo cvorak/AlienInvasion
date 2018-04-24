@@ -5,10 +5,6 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AlienInvasion", "AlienInvasion\AlienInvasion.pyproj", "{ED473BEA-A8AC-4E79-8D1C-6BED73414C31}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AdditionalMumboJumbo", "Rocket\AdditionalMumboJumbo.pyproj", "{75BC1F26-9F44-4363-BD6C-AF04FCD4EBE7}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SidewaysShooter", "SidewaysShooter\SidewaysShooter.pyproj", "{52A9EFAE-87B5-4059-9B67-D2C9E0D28C7F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +13,6 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{ED473BEA-A8AC-4E79-8D1C-6BED73414C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ED473BEA-A8AC-4E79-8D1C-6BED73414C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75BC1F26-9F44-4363-BD6C-AF04FCD4EBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75BC1F26-9F44-4363-BD6C-AF04FCD4EBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52A9EFAE-87B5-4059-9B67-D2C9E0D28C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52A9EFAE-87B5-4059-9B67-D2C9E0D28C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
