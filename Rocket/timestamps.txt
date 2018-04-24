@@ -1,4 +1,0 @@
-Begin time: 09:26:13.067854
-End time: 09:30:55.835787
-
-Battery lasted for: 0:4:43
